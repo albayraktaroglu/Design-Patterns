@@ -4,4 +4,4 @@
  
      Name of Project                          Patterns                         Complated
      -  Fight Game                        Template Pattern                        ✓
-     -  Employe Adapter                   Adapter Pattern                      will be updated later
+     -  Employee Adapter                   Adapter Pattern                      will be updated later
