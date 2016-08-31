@@ -4,4 +4,6 @@
  
      Name of Project                          Patterns                         Complated
      -  Fight Game                        Template Pattern                        ✓
-     -  Employee Adapter                   Adapter Pattern                      will be updated later
+     -  Employee Adapter                  Adapter Pattern                         ✓
+     -  Calculation Strategy              Strategy Pattern                        ✓
+     -
