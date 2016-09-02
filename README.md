@@ -6,4 +6,4 @@
      -  Fight Game                        Template Pattern                        ✓
      -  Employee Adapter                  Adapter Pattern                         ✓
      -  Calculation Strategy              Strategy Pattern                        ✓
-     -
+     -  Database                          Singleton Pattern                       ✓
