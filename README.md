@@ -7,3 +7,4 @@
      -  Employee Adapter                  Adapter Pattern                         ✓
      -  Calculation Strategy              Strategy Pattern                        ✓
      -  Database                          Singleton Pattern                       ✓
+     -  Employee Tree                     Composite Pattern                       ✓
