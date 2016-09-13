@@ -8,3 +8,4 @@
      -  Calculation Strategy              Strategy Pattern                        ✓
      -  Database                          Singleton Pattern                       ✓
      -  Employee Tree                     Composite Pattern                       ✓
+     -  Pizza Create                      Builder Pattern                         ✓
