@@ -9,3 +9,4 @@
      -  Database                          Singleton Pattern                       ✓
      -  Employee Tree                     Composite Pattern                       ✓
      -  Pizza Create                      Builder Pattern                         ✓
+     -  Shapes                            Decorator Pattern                       ✓
